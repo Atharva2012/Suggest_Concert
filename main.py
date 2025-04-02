@@ -16,6 +16,7 @@ scope = 'playlist-read-private, streaming'''
 # new comment in code 00:30 on 03/30
 #new comment added on line 12 at 17:27 on 03/30
 #added new comment to check if git desktop and github online is syncing properly 1:30 AM 04/02
+# added another comment on line 19 1:33AM 04/02
 cache_handler = FlaskSessionCacheHandler(session)
 sp_auth = SpotifyOAuth(
     client_id=client_id,
