@@ -1,2 +1,9 @@
+flask
+spotipy
+requests
+sqlmodel
+uvicorn
+
 Flask==3.0.2
 spotipy==2.23.0
+sqlmodel==0.0.16
